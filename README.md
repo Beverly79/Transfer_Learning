@@ -1,2 +1,3 @@
 # Transfer_Learning
-A couple of Transfer Learning applications
+This repo contains a couple of Transfer Learning applications.
+* EfficientNet
